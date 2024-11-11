@@ -1,8 +1,9 @@
 # Hi 👋, I'm Shivam Kumar
 
-Crafting Digital Excellence: A Passionate Full-Stack Developer Building Tomorrow's Web, One Project at a Time.
+I am a DevOps engineer dedicated to building reliable, scalable, and automated infrastructure solutions.
 
-![Banner](url-to-your-image.png)
+
+![Banner](https://stackify.com/wp-content/uploads/2018/01/devops-process-1.png)
 
 **Profile views** ![Profile views](https://komarev.com/ghpvc/?username=kushivam045)
 
